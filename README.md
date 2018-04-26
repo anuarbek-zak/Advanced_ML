@@ -1,4 +1,4 @@
-# TensorFlo Object Detection
+# TensorFlow Object Detection
 Download /models/research/object_detection/ folder from https://github.com/tensorflow/models/tree/master/research/object_detection
 Main script placed in /models/research/object_detection/object_detection_tutorial.py.
 Backend file in /models/research/object_detection/server.js
